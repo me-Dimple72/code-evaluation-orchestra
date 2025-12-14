@@ -38,4 +38,20 @@ Evaluator	         |      Assigns a score based on correctness
 Summarizer	       |      Generates interview-style feedback
 <br>
 Together, these agents produce a single, understandable evaluation for the user.
+<br><br>
+✨ Key Features
+
+📌 Multiple coding problems (Easy → Medium)
+
+📝 Clear problem statements
+
+💻 Interactive code editor with starter code
+
+🧪 Visible test cases for each problem
+
+📊 Score and pass/fail breakdown
+
+🧠 Technical analysis of the solution
+
+🗣 Interview-style summary feedback
 
