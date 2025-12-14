@@ -77,7 +77,7 @@ View score, test results, analysis, and summary
 <br><br>
 🧩 Sponsor Tool Usage
 <br>
-  ⚡ Stormbreaker Deployment (Vercel)
+-⚡ Stormbreaker Deployment (Vercel)
   Used for fast and reliable deployment.
 <br><br>
 🏁 Results & Impact
