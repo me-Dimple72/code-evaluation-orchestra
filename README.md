@@ -23,22 +23,19 @@ Learners often struggle to understand:
 <br>
 Code Evaluation Orchestra addresses this gap by emphasizing clarity, feedback, and explanation.
 <br><br>
-🤖 AI Agent Architecture (Conceptual)
-<br>
-The system is designed as a collaborative agent workflow:
+### 🤖 AI Agent Architecture
 
-Agent              |    	Responsibility
-<br>               |
-Test Generator	   |      Provides problem-specific test cases
-<br>               |
-Code Analyzer	     |      Inspects solution logic patterns
-<br>
-Evaluator	         |      Assigns a score based on correctness
-<br>
-Summarizer	       |      Generates interview-style feedback
-<br>
-Together, these agents produce a single, understandable evaluation for the user.
-<br><br>
+The system is designed as a collaborative multi-agent workflow:
+
+| Agent          | Responsibility                                  |
+|---------------|--------------------------------------------------|
+| Test Generator | Provides problem-specific test cases            |
+| Code Analyzer  | Inspects solution logic patterns                |
+| Evaluator      | Assigns a score based on correctness            |
+| Summarizer     | Generates interview-style feedback              |
+
+Together, these agents produce a single, clear, and understandable evaluation for the user.
+
 ✨ Key Features
 
 📌 Multiple coding problems (Easy → Medium)
@@ -51,7 +48,37 @@ Together, these agents produce a single, understandable evaluation for the user.
 
 📊 Score and pass/fail breakdown
 
+🧪 Example User Flow
+
+Select a coding problem
+
+Read the problem statement
+
+Write a solution
+
+Click Run Evaluation
+
+View score, test results, analysis, and summary
+
+🧩 Sponsor Tool Usage
+
+⚡ Stormbreaker Deployment (Vercel)
+Used for fast and reliable deployment.
+
 🧠 Technical analysis of the solution
+
+🏁 Results & Impact
+
+Improves learning by explaining why a solution works or fails
+
+Mimics real interview evaluation
+
+Encourages better problem-solving habits
+
+👩‍💻 Author
+
+Dimple Goyal
+GitHub: https://github.com/me-Dimple72
 
 🗣 Interview-style summary feedback
 
