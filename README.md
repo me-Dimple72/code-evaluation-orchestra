@@ -62,8 +62,8 @@ Together, these agents produce a single, clear, and understandable evaluation fo
 
 - Interview-Style Feedback  
   Human-readable feedback similar to real interviews.
-<br><br>
-🧪Example User Flow
+
+Example User Flow
   
 Select a coding problem
 <br>
