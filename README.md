@@ -19,6 +19,6 @@ Learners often struggle to understand:
 <br>
 -Which edge cases failed
 <br>
--whether their solution is interview-ready
+-Whether their solution is interview-ready
 <br>
 Code Evaluation Orchestra addresses this gap by emphasizing clarity, feedback, and explanation.
