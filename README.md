@@ -54,9 +54,6 @@ Together, these agents produce a single, clear, and understandable evaluation fo
 - Problem-Specific Test Cases  
   Each problem includes visible test cases.
 
-- Automated Evaluation  
-  Logic-aware evaluation instead of simple keyword checks.
-
 - Scoring System  
   Solutions are scored based on correctness and quality.
 
@@ -65,10 +62,9 @@ Together, these agents produce a single, clear, and understandable evaluation fo
 
 - Interview-Style Feedback  
   Human-readable feedback similar to real interviews.
-  
 <br><br>
-🧪 Example User Flow
-
+🧪Example User Flow
+<br>
 Select a coding problem
 
 Read the problem statement
@@ -78,7 +74,7 @@ Write a solution
 Click Run Evaluation
 
 View score, test results, analysis, and summary
-
+<br><br>
 🧩 Sponsor Tool Usage
 
 ⚡ Stormbreaker Deployment (Vercel)
