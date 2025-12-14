@@ -10,3 +10,15 @@ Code Evaluation Orchestra is an AI-agent-inspired coding practice and interview 
 Users choose a problem, write a solution, and receive structured, interview-style feedback instead of only pass/fail results.
 <br> 
 The project simulates how multiple AI agents collaborate to evaluate code — similar to how real interviewers assess solutions.
+<br><br> 
+❓ Problem Statement
+<br>
+Learners often struggle to understand:
+<br>
+What logic was missing
+<br>
+Which edge cases failed
+<br>
+Whether their solution is interview-ready
+<br>
+Code Evaluation Orchestra addresses this gap by emphasizing clarity, feedback, and explanation.
