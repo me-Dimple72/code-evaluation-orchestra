@@ -28,9 +28,12 @@ Code Evaluation Orchestra addresses this gap by emphasizing clarity, feedback, a
 The system is designed as a collaborative agent workflow:
 
 Agent	Responsibility
-Test Generator	Provides problem-specific test cases
-Code Analyzer	Inspects solution logic patterns
-Evaluator	Assigns a score based on correctness
-Summarizer	Generates interview-style feedback
-
+Test Generator	        Provides problem-specific test cases
+<br>
+Code Analyzer	          Inspects solution logic patterns
+<br>
+Evaluator	              Assigns a score based on correctness
+<br>
+Summarizer	           Generates interview-style feedback
+<br>
 Together, these agents produce a single, understandable evaluation for the user.
