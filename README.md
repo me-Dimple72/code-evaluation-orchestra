@@ -68,11 +68,7 @@ Together, these agents produce a single, clear, and understandable evaluation fo
 
 - Interview-Style Feedback  
   Human-readable feedback similar to real interviews.
-
-- Live Deployment  
-  Fully deployed on Vercel with a public URL.
-
-
+  <br><br>
 🧪 Example User Flow
 
 Select a coding problem
