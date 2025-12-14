@@ -95,3 +95,6 @@ GitHub: https://github.com/me-Dimple72
 
 🗣 Interview-style summary feedback
 
+
+The Stormbreaker Deployment Award – $2,000
+Your project must be deployed on Vercel, and the deployment must be live. Any standard Vercel deployment qualifies.
