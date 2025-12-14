@@ -39,14 +39,39 @@ Together, these agents produce a single, clear, and understandable evaluation fo
 ✨ Key Features
 
 📌 Multiple coding problems (Easy → Medium)
+<br>
+## ✨ Key Features
 
-📝 Clear problem statements
+- Multiple Coding Problems  
+  A curated set of coding challenges across different difficulty levels.
 
-💻 Interactive code editor with starter code
+- Clear Problem Statements  
+  Each problem includes a concise and well-defined description.
 
-🧪 Visible test cases for each problem
+- Interactive Code Editor  
+  Users can write and edit solutions directly in the browser.
 
-📊 Score and pass/fail breakdown
+- Starter Code Templates  
+  Predefined function signatures to guide candidates.
+
+- Problem-Specific Test Cases  
+  Each problem includes visible test cases.
+
+- Automated Evaluation  
+  Logic-aware evaluation instead of simple keyword checks.
+
+- Scoring System  
+  Solutions are scored based on correctness and quality.
+
+- Technical Analysis  
+  Explains why a solution passes or fails.
+
+- Interview-Style Feedback  
+  Human-readable feedback similar to real interviews.
+
+- Live Deployment  
+  Fully deployed on Vercel with a public URL.
+
 
 🧪 Example User Flow
 
