@@ -38,3 +38,8 @@ Evaluator	         |      Assigns a score based on correctness
 Summarizer	       |      Generates interview-style feedback
 <br>
 Together, these agents produce a single, understandable evaluation for the user.
+
+| Agent     | Responsibility |
+| ---------       | --- -----      |
+| Test Generator | `         |
+| Pipe     | \|        |
