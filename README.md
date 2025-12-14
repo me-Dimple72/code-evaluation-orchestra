@@ -36,11 +36,8 @@ The system is designed as a collaborative multi-agent workflow:
 
 Together, these agents produce a single, clear, and understandable evaluation for the user.
 <br><br>
-✨ Key Features
 
-📌 Multiple coding problems (Easy → Medium)
-<br>
-## ✨ Key Features
+✨ Key Features
 
 - Multiple Coding Problems  
   A curated set of coding challenges across different difficulty levels.
@@ -68,7 +65,7 @@ Together, these agents produce a single, clear, and understandable evaluation fo
 
 - Interview-Style Feedback  
   Human-readable feedback similar to real interviews.
-  <br><br>
+<br><br>
 🧪 Example User Flow
 
 Select a coding problem
