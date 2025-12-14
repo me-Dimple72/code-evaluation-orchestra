@@ -31,6 +31,14 @@ Which edge cases they missed
 
 Whether their logic is interview-ready
 
+
+🧩 Sponsor Tool Usage
+
+⚡ Stormbreaker Deployment (Vercel)
+Used to deploy and host the platform quickly and reliably.
+
+🧠 Infinity Build (Cline CLI)
+Used conceptually for rapid ideation, problem structuring, and iteration.
 How their solution would be judged by a real interviewer
 
 Code Evaluation Orchestra focuses on clarity of feedback, not just correctness.
