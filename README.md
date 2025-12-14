@@ -65,6 +65,7 @@ Together, these agents produce a single, clear, and understandable evaluation fo
 
 - Interview-Style Feedback  
   Human-readable feedback similar to real interviews.
+  
 <br><br>
 🧪 Example User Flow
 
@@ -92,7 +93,7 @@ Improves learning by explaining why a solution works or fails
 Mimics real interview evaluation
 
 Encourages better problem-solving habits
-
+<br><br>
 👩‍💻 Author
 
 Dimple Goyal
