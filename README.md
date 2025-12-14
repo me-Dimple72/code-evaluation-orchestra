@@ -48,5 +48,18 @@ Code Evaluation Orchestra focuses on clarity of feedback, not just correctness.
 | **Test Generator** | Defines problem-specific test cases |
 | **Code Analyzer**  | Detects solution logic patterns     |
 | **Evaluator**      | Scores solution quality             |
+
+🏁 Results & Impact
+
+Provides clearer feedback than basic pass/fail systems
+
+Mimics real interview evaluation
+
+Improves learning through explanation, not just answers
+
+👩‍💻 Team / Author
+
+Dimple Goyal
+GitHub: https://github.com/me-Dimple72
 | **Summarizer**     | Produces interview-style feedback   |
 
