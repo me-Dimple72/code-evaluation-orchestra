@@ -34,3 +34,11 @@ Whether their logic is interview-ready
 How their solution would be judged by a real interviewer
 
 Code Evaluation Orchestra focuses on clarity of feedback, not just correctness.
+
+| AI Agent           | Responsibility                      |
+| ------------------ | ----------------------------------- |
+| **Test Generator** | Defines problem-specific test cases |
+| **Code Analyzer**  | Detects solution logic patterns     |
+| **Evaluator**      | Scores solution quality             |
+| **Summarizer**     | Produces interview-style feedback   |
+
