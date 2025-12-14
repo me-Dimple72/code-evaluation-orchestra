@@ -76,22 +76,20 @@ Click Run Evaluation
 View score, test results, analysis, and summary
 <br><br>
 🧩 Sponsor Tool Usage
-
-⚡ Stormbreaker Deployment (Vercel)
-Used for fast and reliable deployment.
-
-🧠 Technical analysis of the solution
-
+<br>
+  ⚡ Stormbreaker Deployment (Vercel)
+  Used for fast and reliable deployment.
+<br><br>
 🏁 Results & Impact
-
+<br>
 Improves learning by explaining why a solution works or fails
-
+<br>
 Mimics real interview evaluation
-
+<br>
 Encourages better problem-solving habits
 <br><br>
 👩‍💻 Author
-
+<br>
 Dimple Goyal
 GitHub: https://github.com/me-Dimple72
 
